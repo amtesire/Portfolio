@@ -26,3 +26,8 @@ ul {
     width: 350px;
     height: 70px;
 }
+span{
+    padding:5px;
+    background-color: palevioletred;
+  }
+  

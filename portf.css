@@ -17,6 +17,7 @@ ol {
     border: 3px solid black;
     width: 350px;
     height: 70px;
+    background-color: greenyellow;
 }
 ul {
     float: left;
@@ -25,6 +26,7 @@ ul {
     border: 3px solid black;
     width: 350px;
     height: 70px;
+    background-color: goldenrod;
 }
 span{
     padding:5px;

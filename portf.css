@@ -5,7 +5,7 @@ h1 {
     float: left;
 }
 
-p , h2 ,h3 ,h4 {
+p , h2 ,h3 ,h4, h5 {
     float: left;
     text-align: stretch;
     clear: both;

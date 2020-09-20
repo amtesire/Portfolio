@@ -10,3 +10,11 @@ p , h2{
     text-align: stretch;
     clear: both;
 }
+h3{
+    float: left;
+    text-align: stretch;
+    clear: both;
+    border: 3px solid black;
+    width: 300px;
+    height: 100px;
+}

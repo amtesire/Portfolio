@@ -1,0 +1,56 @@
+img {
+    float: left;
+  }
+h1 {
+    float: left;
+}
+
+p , h2 ,h3 ,h4,h5 {
+    float: left;
+    text-align: stretch;
+    clear: both;
+}
+ol {
+    float: left;
+    clear: left;
+    text-align: start;
+    border: 3px solid black;
+    width: 350px;
+    height: 70px;
+    background-color: greenyellow;
+}
+ul {
+    float: left;
+    clear: left;
+    text-align: start;
+    border: 3px solid black;
+    width: 350px;
+    height: 70px;
+    background-color: goldenrod;
+}
+span{
+    padding:5px;
+    background-color: palevioletred;
+  }
+  body{
+      background-color: grey;
+  }
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .fa:hover {
+    opacity: 0.7;
+  }
+  .fa-facebook{
+    background:darkblue;
+    color:white;
+  }
+  .fa-instagram{
+    background:red;
+    color:white;
+  }
+  
